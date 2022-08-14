@@ -1,4 +1,4 @@
 /** @format */
-import { randomJokes } from './randomJokes';
+import { randomJokes } from './api/randomJokes';
 
-randomJokes();
+console.log(randomJokes());
